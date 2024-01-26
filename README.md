@@ -1,3 +1,5 @@
-# users_with_data
+# A movie app
 
-A Trie data structure contains usernames of users of a movie website, ensuring fast non-linear access. Each user has a built-in binary search tree data structure, which contains movie names in the nodes.
+Users are stores in a Trie data structure, ensuring fast non-linear access. Each node contains a character, which 
+
+Each Username's last letter in a Trie corresponds to a node, which has a built-in binary search tree, containing movie names in the nodes for quick access.
